@@ -48,4 +48,5 @@ __all__ = [
     "SupabaseVectorStore",
     "PGVectorStore",
     "ZepVectorStore",
+    "DynamoDBVectorStore"
 ]
